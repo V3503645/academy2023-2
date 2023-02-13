@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello Big world
 I am Peto
+=======
+Hello Small world
+I am Peto
+>>>>>>> 428b882c047b3987a6cb19fc0e7c51913d6ad0bc
